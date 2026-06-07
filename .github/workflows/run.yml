@@ -1,0 +1,26 @@
+name: Run Python Script 24/7
+
+on:
+  workflow_dispatch: # Позволяет запускать скрипт вручную кнопкой
+  schedule:
+    - cron: '0 */6 * * *' # Автоматический перезапуск каждые 6 часов
+
+jobs:
+  run-script:
+    runs-on: ubuntu-latest # Робот запустится на чистой системе Linux (Ubuntu)
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v3 # Робот скачивает твой код из репозитория
+
+      - name: Set up Python
+        uses: actions/setup-python@v4 # Робот устанавливает Python
+        with:
+          python-version: '3.10'
+
+      - name: Install dependencies
+        run: pip install requests # Робот устанавливает библиотеку requests
+
+      - name: Run Script
+        env:
+          AUTH_TOKEN: ${{ secrets.AUTH_TOKEN }} # Робот берет скрытый токен из настроек
+        run: python main.py # Робот запускает твой скрипт
