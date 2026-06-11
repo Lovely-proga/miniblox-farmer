@@ -397,10 +397,10 @@ const KITS_CONFIG = {
                 (name) => sendChat('/give ' + name + ' infernium_leggings 1'),
                 (name) => sendChat('/give ' + name + ' infernium_boots 1'),
                 (name) => sendChat('/give ' + name + ' infernium_axe 1'),
-                (name) => sendChat('/give ' + name + ' glowstone_dust 32'),
-                (name) => sendChat('/give ' + name + ' fire_charge 8'),
-                (name) => sendChat('/give ' + name + ' crying_obsidian 8'),
-                (name) => sendChat('/give ' + name + ' brewing_stand 1'),
+                (name) => sendChat('/give ' + name + ' golden_apple 16'),
+                (name) => sendChat('/give ' + name + ' tnt 32'),
+                (name) => sendChat('/give ' + name + ' experience_bottle 64'),
+                (name) => sendChat('/give ' + name + ' obsidian 16'),
                 (name) => sendChat('/w ' + name + ' Получен набор infernium!')
             ]
         }
@@ -493,10 +493,10 @@ const KITS_CONFIG = {
                 (name) => sendChat('/give ' + name + ' infernium_leggings 1'),
                 (name) => sendChat('/give ' + name + ' infernium_boots 1'),
                 (name) => sendChat('/give ' + name + ' infernium_axe 1'),
-                (name) => sendChat('/give ' + name + ' glowstone_dust 32'),
-                (name) => sendChat('/give ' + name + ' fire_charge 8'),
-                (name) => sendChat('/give ' + name + ' crying_obsidian 8'),
-                (name) => sendChat('/give ' + name + ' brewing_stand 1'),
+                (name) => sendChat('/give ' + name + ' golden_apple 16'),
+                (name) => sendChat('/give ' + name + ' tnt 32'),
+                (name) => sendChat('/give ' + name + ' experience_bottle 64'),
+                (name) => sendChat('/give ' + name + ' obsidian 16'),
                 (name) => sendChat('/w ' + name + ' Получен набор infernium!')
             ],
             "dragon": [
@@ -602,10 +602,10 @@ const KITS_CONFIG = {
                 (name) => sendChat('/give ' + name + ' infernium_leggings 1'),
                 (name) => sendChat('/give ' + name + ' infernium_boots 1'),
                 (name) => sendChat('/give ' + name + ' infernium_axe 1'),
-                (name) => sendChat('/give ' + name + ' glowstone_dust 32'),
-                (name) => sendChat('/give ' + name + ' fire_charge 8'),
-                (name) => sendChat('/give ' + name + ' crying_obsidian 8'),
-                (name) => sendChat('/give ' + name + ' brewing_stand 1'),
+                (name) => sendChat('/give ' + name + ' golden_apple 16'),
+                (name) => sendChat('/give ' + name + ' tnt 32'),
+                (name) => sendChat('/give ' + name + ' experience_bottle 64'),
+                (name) => sendChat('/give ' + name + ' obsidian 16'),
                 (name) => sendChat('/w ' + name + ' Получен набор infernium!')
             ],
             "dragon": [
@@ -729,10 +729,10 @@ const KITS_CONFIG = {
                 (name) => sendChat('/give ' + name + ' infernium_leggings 1'),
                 (name) => sendChat('/give ' + name + ' infernium_boots 1'),
                 (name) => sendChat('/give ' + name + ' infernium_axe 1'),
-                (name) => sendChat('/give ' + name + ' glowstone_dust 32'),
-                (name) => sendChat('/give ' + name + ' fire_charge 8'),
-                (name) => sendChat('/give ' + name + ' crying_obsidian 8'),
-                (name) => sendChat('/give ' + name + ' brewing_stand 1'),
+                (name) => sendChat('/give ' + name + ' golden_apple 16'),
+                (name) => sendChat('/give ' + name + ' tnt 32'),
+                (name) => sendChat('/give ' + name + ' experience_bottle 64'),
+                (name) => sendChat('/give ' + name + ' obsidian 16'),
                 (name) => sendChat('/w ' + name + ' Получен набор infernium!')
             ],
             "dragon": [
@@ -864,10 +864,10 @@ const KITS_CONFIG = {
                 (name) => sendChat('/give ' + name + ' infernium_leggings 1'),
                 (name) => sendChat('/give ' + name + ' infernium_boots 1'),
                 (name) => sendChat('/give ' + name + ' infernium_axe 1'),
-                (name) => sendChat('/give ' + name + ' glowstone_dust 32'),
-                (name) => sendChat('/give ' + name + ' fire_charge 8'),
-                (name) => sendChat('/give ' + name + ' crying_obsidian 8'),
-                (name) => sendChat('/give ' + name + ' brewing_stand 1'),
+                (name) => sendChat('/give ' + name + ' golden_apple 16'),
+                (name) => sendChat('/give ' + name + ' tnt 32'),
+                (name) => sendChat('/give ' + name + ' experience_bottle 64'),
+                (name) => sendChat('/give ' + name + ' obsidian 16'),
                 (name) => sendChat('/w ' + name + ' Получен набор infernium!')
             ],
             "dragon": [
@@ -1012,10 +1012,10 @@ const KITS_CONFIG = {
                 (name) => sendChat('/give ' + name + ' infernium_leggings 1'),
                 (name) => sendChat('/give ' + name + ' infernium_boots 1'),
                 (name) => sendChat('/give ' + name + ' infernium_axe 1'),
-                (name) => sendChat('/give ' + name + ' glowstone_dust 32'),
-                (name) => sendChat('/give ' + name + ' fire_charge 8'),
-                (name) => sendChat('/give ' + name + ' crying_obsidian 8'),
-                (name) => sendChat('/give ' + name + ' brewing_stand 1'),
+                (name) => sendChat('/give ' + name + ' golden_apple 16'),
+                (name) => sendChat('/give ' + name + ' tnt 32'),
+                (name) => sendChat('/give ' + name + ' experience_bottle 64'),
+                (name) => sendChat('/give ' + name + ' obsidian 16'),
                 (name) => sendChat('/w ' + name + ' Получен набор infernium!')
             ],
             "dragon": [
@@ -1173,10 +1173,10 @@ const KITS_CONFIG = {
                 (name) => sendChat('/give ' + name + ' infernium_leggings 1'),
                 (name) => sendChat('/give ' + name + ' infernium_boots 1'),
                 (name) => sendChat('/give ' + name + ' infernium_axe 1'),
-                (name) => sendChat('/give ' + name + ' glowstone_dust 32'),
-                (name) => sendChat('/give ' + name + ' fire_charge 8'),
-                (name) => sendChat('/give ' + name + ' crying_obsidian 8'),
-                (name) => sendChat('/give ' + name + ' brewing_stand 1'),
+                (name) => sendChat('/give ' + name + ' golden_apple 16'),
+                (name) => sendChat('/give ' + name + ' tnt 32'),
+                (name) => sendChat('/give ' + name + ' experience_bottle 64'),
+                (name) => sendChat('/give ' + name + ' obsidian 16'),
                 (name) => sendChat('/w ' + name + ' Получен набор infernium!')
             ],
             "dragon": [
