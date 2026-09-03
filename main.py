@@ -28,7 +28,7 @@ with requests.Session() as session:
     while True:
         try:
             response = session.post(URL, json=PAYLOAD, timeout=10)
-            print(f"Response: {response.status_code}")
+            print(f"Status: {response.status_code} | Data: {response.text}")
         except Exception as e:
             print(f"Error: {e}")
         
